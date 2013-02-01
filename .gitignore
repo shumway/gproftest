@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+Makefile
+CMakeFiles
+.gitignore
+bin
+config.h
+cmake_install.cmake
