@@ -1,4 +1,4 @@
-add_executable(gproftest main.cpp)
+add_executable(gproftest main.cpp sumsquares.cpp)
 
 set_target_properties(gproftest
     PROPERTIES
